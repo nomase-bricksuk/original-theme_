@@ -24,4 +24,5 @@ description – Textarea (used for SEO meta description)
 
 title – テキストフィールド（SEOタイトル用）
 description – テキストエリア（SEOメタディスクリプション用）
-カスタマイズを楽しんでください！
+
+Site Kit by Google
