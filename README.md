@@ -4,11 +4,14 @@ This is a lightweight WordPress theme designed as a starting point for implement
 
 Feel free to customize it to suit your project needs.
 
-🔧 Recommended Setup
+🔧 Recommended Setup;
+1. Advanced Custom Fields (ACF)
 To get the most out of this theme, it's strongly recommended to install the Advanced Custom Fields (ACF) plugin and create the following custom fields:
 
 title – Text field (used for SEO title)
 description – Textarea (used for SEO meta description)
+
+2. Site Kit by Google
 
 # オリジナルカスタムテーマ
 
